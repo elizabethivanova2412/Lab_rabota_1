@@ -41,11 +41,10 @@ int main() {
 ```
 
 **Результат выполнения**
-```
-7.5
-```
 
----
+![Решение задачи 1](https://raw.githubusercontent.com/elizabethivanova2412/Lab_1_Ivanova_Elizaveta/main/1_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0.png)
+```
+```
 
 ## Задача 2 - Итерация массива с арифметикой указателей
 **Постановка задачи**  
@@ -91,13 +90,8 @@ int main() {
 
 **Результат выполнения**
 ```
-Размер массива: 4
-Введите элементы:
-2.5
-4.7
-1.3
-9.8
-Массив: 2.5 4.7 1.3 9.8
+![Решение задачи 2](https://raw.githubusercontent.com/elizabethivanova2412/Lab_1_Ivanova_Elizaveta/main/2_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0.png)
+
 ```
 
 ---
